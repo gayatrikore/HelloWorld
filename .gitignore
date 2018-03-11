@@ -1,0 +1,8 @@
+# ignoring directory .idea
+.idea/
+
+# ignoring helloworld.iml file
+HelloWorld.iml
+
+# ignoring out directory
+out/
